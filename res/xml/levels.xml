@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<levels>
+	<bricktype name="wide" resource="block" density="1" />
+	<bricktype name="angry" resource="mean_block" density="1" />
+	<level>
+		<brick x="20" y="20" type="wide" />
+		<brick x="20" y="200" type="angry" />
+	</level>
+</levels>
